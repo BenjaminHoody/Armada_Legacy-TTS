@@ -68,7 +68,7 @@
 --     or join ArmadaTTS Server: https://discord.gg/3MrP8db
 --
 
-LEGACY_ASSETS = 'https://raw.githubusercontent.com/BenjaminHoody/ArmadaLegacyTTS/master/assets/'
+LEGACY_ASSETS = 'https://raw.githubusercontent.com/BenjaminHoody/Armada_Legacy-TTS/master/assets/'
 CARDS_LEGACY = 'https://raw.githubusercontent.com/eldrxdevelop/ArmadaLegacy/main/'
 CUSTOM_ASSETS = 'https://raw.githubusercontent.com/spacenavy90/SNCustomTTS-IncludeDir/master/SW_armada/assets/'
 function onload()
